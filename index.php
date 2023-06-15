@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <?php include './view/Formulario.php' ?>
+    <?php include './view/Template.php' ?>
 </body>
 
 </html>
